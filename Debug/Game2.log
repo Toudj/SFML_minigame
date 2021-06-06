@@ -1,0 +1,16 @@
+﻿  Game2.cpp
+C:\Users\Tidjani\source\repos\Game2\Game2\Game2.cpp(14,38): warning C4244: 'argument' : conversion de 'T' en 'unsigned int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Tidjani\source\repos\Game2\Game2\Game2.cpp(14,26): warning C4244: 'argument' : conversion de 'T' en 'unsigned int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Tidjani\source\repos\Game2\Game2\Game2.cpp(180,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Tidjani\source\repos\Game2\Game2\Game2.cpp(192,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Tidjani\source\repos\Game2\Game2\Game2.cpp(205,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Tidjani\source\repos\Game2\Game2\Game2.cpp(207,27): warning C4018: '<' : incompatibilité signed/unsigned
+  Game2.vcxproj -> C:\Users\Tidjani\source\repos\Game2\Debug\Game2.exe
